@@ -1,0 +1,19 @@
+body {
+    background-color: peachpuff;
+    font-family: 'Abril Fatface', cursive;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h1 {
+    color: peru;
+}
+
+.friend {
+    background-color: blanchedalmond;
+    text-align: center;
+}
+
+h3 {
+    text-transform: uppercase;
+}
